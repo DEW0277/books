@@ -1,0 +1,1 @@
+Bu folderimizda loyihamizga tegishli bo'lgan sahifa (page) fayllari yoziladi. m: login.js, Home.js

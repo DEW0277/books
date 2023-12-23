@@ -1,0 +1,1 @@
+Bu papkamizda loyihaga tegishli bo'lgan emailChekker.js yoki getForm.js
